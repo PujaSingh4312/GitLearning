@@ -2,3 +2,4 @@ GIT LEARNING STARTS
 
 1) First we need to create a remote repository in github.
 2) Then we need to clone the remote repo in our LOCAL system. COMMAND -> git clone url
+3) Git status will status of local repository
